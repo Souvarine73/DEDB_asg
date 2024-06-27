@@ -101,6 +101,10 @@
 
 # COMMAND ----------
 
+dbutils.library.restartPython()
+
+# COMMAND ----------
+
 # MAGIC %run ./ExampleSetupFolder/example-setup
 
 # COMMAND ----------
